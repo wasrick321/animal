@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Example animals data
     const animals = [
-        { name: 'harshhhhhh', type: 'Dog', description: 'A friendly dog looking for a home.', image: 'https://via.placeholder.com/150' },
+        { name: 'tomy', type: 'Dog', description: 'A friendly dog looking for a home.', image: 'https://via.placeholder.com/150' },
         { name: 'Mittens', type: 'Cat', description: 'A playful cat that loves attention.', image: 'https://via.placeholder.com/150' },
         // Add more animals as needed
     ];
